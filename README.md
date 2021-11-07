@@ -40,3 +40,5 @@ The B-tree uses all of the ideas described above. In particular, a B-tree:
 
 * Currently it can only be used via a single goroutine
 
+
+Review: https://medium.com/@naqvi.jafar91/how-i-built-a-key-value-store-in-go-bd89f68062a8
